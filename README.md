@@ -1,7 +1,7 @@
 # Portfolio
 My Tester's Portfolio
 # O mnie
-Nazywam się Rafał Kindzierski. Ukończyłem liceum o profilu matematyczno-informatycznym by później skończyć studia I stopnia z zarządzania oraz studia II stopnia z controllingu. Z różnych powodów oraz zainteresowania do IT, komputerów i gier na wszelkie platformy, aktualnie jestem w trakcie przebranżawiania na testera. Moim celem jest ukończenie kursu na testera oraz praca w IT, najlepiej związana z gamedev. Na tej stronie będę gromadził swoje doświadczenia na drodze do celu.
+Nazywam się Rafał Kindzierski. Ukończyłem liceum o profilu matematyczno-informatycznym by później skończyć studia I stopnia z zarządzania, studia II stopnia z finansów i rachunkowości oraz studia podyplomowe z controllingu. Z różnych powodów oraz zainteresowania do IT, komputerów i gier na wszelkie platformy, aktualnie jestem w trakcie przebranżawiania na testera. Moim celem jest ukończenie kursu na testera oraz praca w IT, najlepiej związana z gamedev. Na tej stronie będę gromadził swoje doświadczenia na drodze do celu.
 # Narzędzia 
 * Postman
 * Selenium IDE
