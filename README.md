@@ -10,13 +10,16 @@ Nazywam się Rafał Kindzierski. Ukończyłem liceum o profilu matematyczno-info
 * Confluence
 * Trello
 # Kursy
-Ukończony kurs testera oprogramowania SDA.
+* Ukończony kurs testera oprogramowania SDA - 12.2020
+# Certyfikaty
+* Certyfikat ISTQB - w trakcie przygotowywania (data egzminu ustalona na 25.01.2021)
 # Ksiazki
 * Adam Roman, Lucjan Stapp - Certyfikowany Tester ISTQB poziom podstawowy
 * Radosław Smilgin - Praktyka testowania zeszyt ćwiczeń
-
 # Blogi/strony tematyczne
 * https://remigiuszbednarczyk.pl/
 * https://testerzy.pl/
 * https://www.guru99.com
 * https://pwicherski.gitbook.io/testowanie-oprogramowania/
+* https://www.facebook.com/groups/TestowanieOprogramowania/
+* https://www.facebook.com/groups/testeroprogramowania
