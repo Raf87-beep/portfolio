@@ -2,8 +2,9 @@
 Portfolio startującego testera.
 # O mnie
 Cześć jestem Rafał.
-Ukończyłem liceum o profilu matematyczno-informatycznym by później skończyć studia I stopnia z zarządzania, studia II stopnia z finansów i rachunkowości oraz studia podyplomowe z controllingu. Od paru lat prowadzę swoją działalność. Z różnych powodów oraz zainteresowania do IT, komputerów i gier aktualnie jestem w trakcie przebranżawiania na testera. 
-Na tej stronie będę gromadził swoje doświadczenia na drodze do celu. W grudniu 2020 ukończyłem kurs na testera manualnego wraz z przygotowaniem do egzaminu ISTQB. Moim aktualnym celem jest zostanie testerem manualnym oraz dalsze poszerzanie wiedzy w testowaniu.
+Ukończyłem liceum o profilu matematyczno-informatycznym by później skończyć studia I stopnia z zarządzania, studia II stopnia z finansów i rachunkowości oraz studia podyplomowe z controllingu. Od paru lat prowadzę swoją działalność. Z różnych powodów oraz zainteresowania do IT, komputerów i gier aktualnie jestem w trakcie przebranżawiania na testera manualnego. 
+Na tej stronie będę się starać gromadzić swoje doświadczenia na drodze do celu. 
+W grudniu 2020 ukończyłem kurs na testera manualnego wraz z przygotowaniem do egzaminu ISTQB. Moim aktualnym celem jest zostanie testerem manualnym oraz dalsze poszerzanie wiedzy w testowaniu.
 # Narzędzia (junior level)
 * Postman
 * Selenium IDE & Selenium Webdriver
